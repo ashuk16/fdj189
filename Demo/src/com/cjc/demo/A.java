@@ -20,6 +20,7 @@ public class A {
 	
 	A obj=new A();
 	obj.m1();
+	obj.m2();
 
 }
 }
